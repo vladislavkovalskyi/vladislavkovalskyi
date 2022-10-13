@@ -6,7 +6,7 @@
 ```python
 name = "Vladislav Kovalskyi"
 who_i_am = ['Developer','Coder','Engineer','Hacker','Noobie']
-age = 17
+age = 18
 ```
 
 ###  👨‍💻 Skills
