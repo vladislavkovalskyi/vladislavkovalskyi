@@ -8,8 +8,10 @@ name = "Vladislav Kovalskyi"
 who_i_am = ['Developer','Coder','Engineer','Hacker','Noobie']
 age = 18
 ```
+### My website 🌐
+<a href = 'https://vladislavkovalskyi.github.io/'>About me website</a>
 
-###  👨‍💻 Skills
+### Skills 👨‍💻
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 <img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
 <img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
