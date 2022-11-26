@@ -5,8 +5,14 @@
 ### About Me 🙋🏻‍♂️
 ```python
 name = "Vladislav Kovalskyi"
-who_i_am = ['Developer','Coder','Engineer','Hacker','Noobie']
+who_i_am = ["Developer", "Coder", "Engineer"]
 age = 18
+
+print(f"{name}, {age} y.o.\nI am " + ", ".join(who_i_am))
+
+> Vladislav Kovalskyi, 18 y.o.
+I am Developer, Coder, Engineer
+
 ```
 ### My website 🌐
 <a href = 'https://vladislavkovalskyi.github.io/'>About me website</a>
