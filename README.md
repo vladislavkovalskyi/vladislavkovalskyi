@@ -30,6 +30,7 @@ age = 18
 * <a href = 'https://github.com/vladislavkovalskyi/aioowm'>AioOWM<a/> - Async Weather Library
 * <a href = 'https://github.com/vladislavkovalskyi/logs'>Logs<a/> - Colored logs
 * <a href = 'https://github.com/vladislavkovalskyi/ColoredChatCSGO'>ColoredChatCSGO</a> - Colored Chat for CS:GO
+* <a href = "https://github.com/vladislavkovalskyi/aiobrawlstats">aiobrawlstars<a/> - Async BrawlStars Api Lib
 
 
 ### My Telegram
