@@ -10,8 +10,8 @@ age = 18
 
 print(f"{name}, {age} y.o.\nI am " + ", ".join(who_i_am))
 
-> Vladislav Kovalskyi, 18 y.o.
-I am Developer, Coder, Engineer
+# > Vladislav Kovalskyi, 18 y.o.
+# I am Developer, Coder, Engineer
 
 ```
 ### My website 🌐
