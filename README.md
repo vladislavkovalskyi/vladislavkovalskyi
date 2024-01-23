@@ -33,6 +33,7 @@ print(f"{name}, {age} y.o.\nI am " + ", ".join(who_i_am))
 </br>
 
 ### 🚀 My projects
+* <a href = 'https://github.com/vladislavkovalskyi/mubble'>Mubble<a/> - Async Telegram bots Library
 * <a href = 'https://github.com/vladislavkovalskyi/aioowm'>AioOWM<a/> - Async Weather Library
 * <a href = 'https://github.com/vladislavkovalskyi/logs'>Logs<a/> - Colored logs
 * <a href = 'https://github.com/vladislavkovalskyi/ColoredChatCSGO'>ColoredChatCSGO</a> - Colored Chat for CS:GO
