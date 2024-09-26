@@ -6,11 +6,11 @@
 ```python
 name = "Vladislav Kovalskyi"
 who_i_am = ["Developer", "Coder", "Engineer"]
-age = 19
+age = 20
 
 print(f"{name}, {age} y.o.\nI am " + ", ".join(who_i_am))
 
-# > Vladislav Kovalskyi, 19 y.o.
+# > Vladislav Kovalskyi, 20 y.o.
 # I am Developer, Coder, Engineer
 
 ```
