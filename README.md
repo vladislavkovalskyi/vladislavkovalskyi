@@ -35,8 +35,3 @@
 ### Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vladislavkovalskyi&theme=oldie)
-
----
-
-### About me
-![aboutme](aboutme.jpg)
